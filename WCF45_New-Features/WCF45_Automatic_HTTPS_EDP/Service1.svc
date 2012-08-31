@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCF45_Automatic_HTTPS_EDP.Service1" CodeBehind="Service1.svc.cs" %>

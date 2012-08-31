@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF45_UPD_Binding_Service", "WCF45_UPD_Binding_Service\WCF45_UPD_Binding_Service.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF45_UDP_COnsole_Host", "WCF45_UDP_COnsole_Host\WCF45_UDP_COnsole_Host.csproj", "{39428CCE-70FD-4644-A52B-61A6FF5D1EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF45_UDP_Comparision_Client", "WCF45_UDP_Comparision_Client\WCF45_UDP_Comparision_Client.csproj", "{83144452-FCDE-41EE-A073-F552D77C25E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39428CCE-70FD-4644-A52B-61A6FF5D1EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39428CCE-70FD-4644-A52B-61A6FF5D1EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39428CCE-70FD-4644-A52B-61A6FF5D1EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39428CCE-70FD-4644-A52B-61A6FF5D1EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83144452-FCDE-41EE-A073-F552D77C25E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83144452-FCDE-41EE-A073-F552D77C25E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83144452-FCDE-41EE-A073-F552D77C25E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83144452-FCDE-41EE-A073-F552D77C25E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

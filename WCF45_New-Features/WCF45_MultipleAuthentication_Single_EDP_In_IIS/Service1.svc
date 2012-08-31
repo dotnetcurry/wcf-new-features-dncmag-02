@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" 
+    Service="WCF45_MultipleAuthentication_Single_EDP_In_IIS.Service" CodeBehind="Service1.svc.cs" %>
